@@ -1,4 +1,4 @@
-# Cerulean is a lab for breaking down barriers and democratizing AI exploration.
+# Cerulean is a lab for breaking down barriers to safe, open AI research.
 
 We believe in science for everyone, not just the best-funded labs. Maintaining a free and diverse AI landscape requires enabling research for people from all different backgrounds. AI research should be possible before university. AI research should be accessible to community tool-builders. AI research cannot afford to lose ideas to computing costs.
 
